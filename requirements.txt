@@ -4,3 +4,5 @@ requests
 scipy
 numpy
 matplotlib
+sqlalchemy
+seaborn
